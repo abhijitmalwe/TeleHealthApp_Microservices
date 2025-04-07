@@ -4537,6 +4537,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Microsoft.AspNetCore.Http.Abstractions >= 2.3.0",
       "Microsoft.AspNetCore.Mvc.Core >= 2.3.0",
       "Microsoft.AspNetCore.SignalR.Core >= 1.2.0",
       "Microsoft.EntityFrameworkCore >= 9.0.3",
@@ -4594,6 +4595,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": {
+            "target": "Package",
+            "version": "[2.3.0, )"
+          },
           "Microsoft.AspNetCore.Mvc.Core": {
             "target": "Package",
             "version": "[2.3.0, )"

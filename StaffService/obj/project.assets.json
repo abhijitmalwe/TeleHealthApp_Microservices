@@ -4702,11 +4702,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\New folder\\Microservices_Assissment-main\\RestaurantService\\StaffService.csproj",
+      "projectUniqueName": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\StaffService\\StaffService.csproj",
       "projectName": "StaffService",
-      "projectPath": "D:\\New folder\\Microservices_Assissment-main\\RestaurantService\\StaffService.csproj",
+      "projectPath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\StaffService\\StaffService.csproj",
       "packagesPath": "C:\\Users\\abhijitmalwe.SDEICHD0\\.nuget\\packages\\",
-      "outputPath": "D:\\New folder\\Microservices_Assissment-main\\RestaurantService\\obj\\",
+      "outputPath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\StaffService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

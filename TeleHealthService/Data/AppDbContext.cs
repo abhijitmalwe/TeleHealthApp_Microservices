@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using TeleHealthService.Model;
 
-namespace StaffService.Data
+namespace TeleHealthService.Data
 {
     public class AppDbContext : DbContext
     {
