@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\Microservices_Assissment-main\\PatientService\\PatientService.csproj": {}
+    "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\PatientService\\PatientService.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Microservices_Assissment-main\\PatientService\\PatientService.csproj": {
+    "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\PatientService\\PatientService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Microservices_Assissment-main\\PatientService\\PatientService.csproj",
+        "projectUniqueName": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\PatientService\\PatientService.csproj",
         "projectName": "PatientService",
-        "projectPath": "D:\\New folder\\Microservices_Assissment-main\\PatientService\\PatientService.csproj",
+        "projectPath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\PatientService\\PatientService.csproj",
         "packagesPath": "C:\\Users\\abhijitmalwe.SDEICHD0\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Microservices_Assissment-main\\PatientService\\obj\\",
+        "outputPath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\PatientService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

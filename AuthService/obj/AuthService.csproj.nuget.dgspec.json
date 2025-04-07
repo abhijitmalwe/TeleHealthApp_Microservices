@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\Microservices_Assissment-main\\AuthService\\AuthService.csproj": {}
+    "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\AuthService\\AuthService.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\Microservices_Assissment-main\\AuthService\\AuthService.csproj": {
+    "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\AuthService\\AuthService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\Microservices_Assissment-main\\AuthService\\AuthService.csproj",
+        "projectUniqueName": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\AuthService\\AuthService.csproj",
         "projectName": "AuthService",
-        "projectPath": "D:\\New folder\\Microservices_Assissment-main\\AuthService\\AuthService.csproj",
+        "projectPath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\AuthService\\AuthService.csproj",
         "packagesPath": "C:\\Users\\abhijitmalwe.SDEICHD0\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\Microservices_Assissment-main\\AuthService\\obj\\",
+        "outputPath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\AuthService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

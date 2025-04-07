@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NKeSPN78SCM=",
+  "dgSpecHash": "4685SFMRxRc=",
   "success": true,
-  "projectFilePath": "D:\\New folder\\Microservices_Assissment-main\\AuthService\\AuthService.csproj",
+  "projectFilePath": "D:\\New folder\\Assisment_POC\\TeleHealthApp_Microservices\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhijitmalwe.SDEICHD0\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\abhijitmalwe.SDEICHD0\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

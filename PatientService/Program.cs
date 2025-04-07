@@ -17,8 +17,6 @@ namespace PatientService
 
             // Add services to the container.
             builder.Services.AddScoped<IPatientService, Patient_Service>();
-            // Register RabbitMQ Listener as a Hosted Service
-            builder.Services.AddHostedService<RabbitMqListener>();
 
             builder.Services.AddDbContext<AppDbContext>(option =>
             {

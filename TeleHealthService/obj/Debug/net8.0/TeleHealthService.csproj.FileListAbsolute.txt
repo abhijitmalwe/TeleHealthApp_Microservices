@@ -64,3 +64,9 @@ D:\New folder\Microservices_Assissment-main\TeleHealthService\obj\Debug\net8.0\r
 D:\New folder\Microservices_Assissment-main\TeleHealthService\obj\Debug\net8.0\TeleHealthService.pdb
 D:\New folder\Microservices_Assissment-main\TeleHealthService\obj\Debug\net8.0\TeleHealthService.genruntimeconfig.cache
 D:\New folder\Microservices_Assissment-main\TeleHealthService\obj\Debug\net8.0\ref\TeleHealthService.dll
+D:\New folder\Assisment_POC\TeleHealthApp_Microservices\TeleHealthService\obj\Debug\net8.0\TeleHealthService.csproj.AssemblyReference.cache
+D:\New folder\Assisment_POC\TeleHealthApp_Microservices\TeleHealthService\obj\Debug\net8.0\TeleHealthService.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Assisment_POC\TeleHealthApp_Microservices\TeleHealthService\obj\Debug\net8.0\TeleHealthService.AssemblyInfoInputs.cache
+D:\New folder\Assisment_POC\TeleHealthApp_Microservices\TeleHealthService\obj\Debug\net8.0\TeleHealthService.AssemblyInfo.cs
+D:\New folder\Assisment_POC\TeleHealthApp_Microservices\TeleHealthService\obj\Debug\net8.0\TeleHealthService.csproj.CoreCompileInputs.cache
+D:\New folder\Assisment_POC\TeleHealthApp_Microservices\TeleHealthService\obj\Debug\net8.0\TeleHealthService.sourcelink.json

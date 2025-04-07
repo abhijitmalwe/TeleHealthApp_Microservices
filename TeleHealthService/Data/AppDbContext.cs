@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using StaffService.Entities;
 using System.Collections.Generic;
 using TeleHealthService.Model;
 
