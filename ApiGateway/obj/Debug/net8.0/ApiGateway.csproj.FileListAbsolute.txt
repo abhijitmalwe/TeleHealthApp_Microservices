@@ -1,0 +1,150 @@
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ApiGateway.staticwebassets.endpoints.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.props
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+D:\Visual Studio\Microservice_Assissment\FoodDeliveryApp_Microservices\ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.sourcelink.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.props
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Assessment\Microservices_Assessment\Microservices_Assissment\ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\appsettings.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\ocelot.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Ocelot.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.ApiGateway.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiGateway.props
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiGateway.props
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiGateway.props
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+D:\New folder\Microservices_Assissment-main\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll

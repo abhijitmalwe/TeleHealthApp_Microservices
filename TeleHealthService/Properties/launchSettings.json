@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TeleHealthService": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

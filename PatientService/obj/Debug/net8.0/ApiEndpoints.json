@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DeliveryService.Controllers.DeliveryController",
+    "Method": "AssignDelivery",
+    "RelativePath": "api/delivery/assigndelivery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "DeliveryService.Model.AssignDeliveryDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
